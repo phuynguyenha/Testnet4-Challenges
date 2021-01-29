@@ -4,10 +4,10 @@ bakerid2:<replace this text with the second bakerid>
 accountaddress1:4FVhZ5XbRa3Avfyhz6qBur89q7ScZ6qfqDPdA1uARpFGrcdsKD
 accountaddress2:<replace this text with the second account address>
 blockhash_addbaker:aae21b6e44272d72aaa50392d28513c44466aee6db91bc0f73653a0d58594389
-blockhash_u1:<replace this text with the blockhash of the block with the update 1 transaction in it>
-blockhash_u2:<replace this text with the blockhash of the block with the update 2 transaction in it>
+blockhash_u1:4e3a70dbd82ca0b1c59bd424d06a8023f5e5783b06c68866a8230c2e7d65cee0
+blockhash_u2:56bd1eeecc15906678eb4e0a1d00c52ff5aaf308c89a07c130ee8eff2a9e8872
 blockhash_u3_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 3 in it>
-blockhash_u3_removebaker:<replace this text with the blockhash of the block with the remove baker transaction of update 3 in it>
+blockhash_u3_removebaker:65b6128a20ebd88cd58313aca71b535643e7a013cc6711c0a7b1f53017bf4fc2
 blockhash_u4_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 4 in it>
 blockhash_u4_removebaker:<replace this text with the blockhash of the block with the remove baker transaction of update 4 in it>
 blockhash_u5_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 5 in it>
